@@ -1,2 +1,4 @@
 # ADSR
-Win prog to test out drawing ADSR graph
+Windows prog to test out drawing ADSR graph
+
+![Example](example.png)
